@@ -1,4 +1,4 @@
-MIT License
+BIT License
 
 Copyright (c) 2020 The Cool Coders
 
